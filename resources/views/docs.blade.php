@@ -8,7 +8,7 @@
     <div id="editor" contenteditable="true">
     This text can be edited by the user.
     </div>
-    <script src="https://cdn.jsdelivr.net/gh/ITP405/lab4-web-socket-node/main.js"></script>
+    <script src="wss://cdn.jsdelivr.net/gh/ITP405/lab4-web-socket-node/main.js"></script>
       <!-- <script src="/main.js"></script> -->
       <!-- <script src="{{'node/main.js'}}"></script> -->
       <!-- <script src="ws://web-socket-node-jaejun.herokuapp.com"></script> -->
