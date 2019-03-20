@@ -11,7 +11,8 @@
     <!-- <script src="https://cdn.jsdelivr.net/gh/ITP405/lab4-web-socket-node/main.js"></script> -->
       <!-- <script src="/main.js"></script> -->
       <!-- <script src="{{'node/main.js'}}"></script> -->
-      <script src="ws://web-socket-node-jaejun.herokuapp.com"></script>
+      <!-- <script src="ws://web-socket-node-jaejun.herokuapp.com"></script> -->
+      <script src="ws://web-socket-node-jaejun.herokuapp.com/main.js"></script>
 
   </body>
 </html>
