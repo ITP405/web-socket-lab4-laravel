@@ -12,7 +12,7 @@
       <!-- <script src="/main.js"></script> -->
       <!-- <script src="{{'node/main.js'}}"></script> -->
       <!-- <script src="ws://web-socket-node-jaejun.herokuapp.com"></script> -->
-      <script src="ws://web-socket-node-jaejun.herokuapp.com/main.js"></script>
+      <script src="wss://web-socket-node-jaejun.herokuapp.com/main.js"></script>
 
   </body>
 </html>
